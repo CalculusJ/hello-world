@@ -1,2 +1,5 @@
 # hello-world
-A new repository
+
+Hi Humans!
+
+CalculusJ here, I like code.
